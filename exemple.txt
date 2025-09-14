@@ -1,0 +1,11 @@
+api_validadora/
+├── venv/                   # Ambiente virtual do Python
+├── app/
+│   ├── __init__.py         # Inicializa o app Flask
+│   ├── routes.py           # Define os endpoints (ex: /cpf/validar)
+│   ├── validators.py       # A LÓGICA de validação do CPF/CNPJ
+│   ├── services.py         # Lógica para consultar APIs externas (CEP)
+│   └── utils.py            # Funções auxiliares (ex: remover pontuação)
+├── tests/                  # Testes para suas validações
+├── run.py                  # Arquivo para iniciar o servidor
+└── requirements.txt        # Dependências do projeto (Flask, requests)
