@@ -23,7 +23,7 @@ Siga os passos abaixo para rodar a aplicação localmente.
 
 **1. Clone o repositório:**
 ```bash
-git clone [https://github.com/SEU-USUARIO-GITHUB/api_validadora.git](https://github.com/SEU-USUARIO-GITHUB/api_validadora.git)
+git clone https://github.com/wallax0x/api_validadora.git
 cd api_validadora
 ```
 
